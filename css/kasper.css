@@ -421,6 +421,10 @@ header .container nav .search i {
 
 /* Setting The Landing of Small Screens */
 @media (max-width: 767px) {
+  .landing .overlay {
+    top: -101px;
+  }
+
   .landing .landing-content .landing-text {
     width: 100%;
     position: absolute;
