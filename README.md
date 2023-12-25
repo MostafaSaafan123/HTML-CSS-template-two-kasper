@@ -1,3 +1,4 @@
-# HTMl---CSS-Template-Two---Kasper--
+# HTMl & CSS Elzero Template Two [Kasper]
 
-The Link For The Website Is Here:  https://mostafasaafan123.github.io/HTMl---CSS-Template-Two---Kasper--/
+The Link For Preview:  
+          https://mostafasaafan123.github.io/HTMl-CSS-template-two-kasper/
