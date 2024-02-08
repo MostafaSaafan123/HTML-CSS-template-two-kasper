@@ -4,4 +4,4 @@ Greetings, developers! 👋 Welcome to my repository featuring the "Template Two
 
 So, Enjoy 😄🎉👩‍💻
 
-Live Preview 🔗⭕: [ https://mostafasaafan123.github.io/HTMl-CSS-template-two-kasper/ ]
+Live Preview 🔗⭕: [ https://mostafasaafan123.github.io/HTML-CSS-template-two-kasper/ ]
